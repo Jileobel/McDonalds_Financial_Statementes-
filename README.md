@@ -1,2 +1,4 @@
 # McDonalds_Financial_Statementes-
 McDonald’s Corporation is an American operator and franchisor of fast food restaurants represented worldwide and the biggest fast food company in the world. 
+McDonald’s Corporation is an American operator and franchisor of fast food restaurants represented worldwide and the biggest fast food company in the world. Founded in 1940 by Richard and Maurice MacDonald, the company has grown significantly and played a key role in shaping the fast food industry. The brand prides itself on providing consistent, fast and affordable food. According to our data, McDonald's is the 51st most valuable company in the world by market capitalization. The company posted revenue of $23.18 billion in 2022, compared to revenue of $23.22 billion in 2021.
+Let's take a look at McDonald's financial data together and see if the biggest fast food player in the world is doing so well.
